@@ -1,2 +1,3 @@
 here is line 1
 line 2 in B
+add 3rd line
