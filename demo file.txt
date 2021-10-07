@@ -1,2 +1,7 @@
 here is line 1
+<<<<<<< HEAD
 second line before krazy
+=======
+css edit one
+sedond css edit
+>>>>>>> css
