@@ -1,7 +1,11 @@
 here is line 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 second line before krazy
 =======
 css edit one
 sedond css edit
 >>>>>>> css
+=======
+after we split from master
+>>>>>>> crazy
